@@ -5,5 +5,5 @@ Primeiro workshop de git da comunidade DebianRJ.
 ## Participantes
 
 * Vitor Mattos
-* Viviane Rose
+* Viviane Rose Ribeiro
 * Daiane Alves
